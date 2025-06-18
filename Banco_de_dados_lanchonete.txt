@@ -1,25 +1,6 @@
-|NOME: vitor|---|EMAIL: vitor@.com|---|TELEFONE: 123456789|---|SENHA: 1234|
-|NOME: otavio|---|EMAIL: otavio@.com|---|TELEFONE: 123456789|---
-|NOME: clarice|---|EMAIL: clarice@.com|---|TELEFONE: 1234567|---
-|NOME: tarcisio|---|EMAIL: tarcisio@.com|---|TELEFONE: 1234567890|---|SENHA: 1234|---
-|NOME: juninho|---|EMAIL: juni@.com|---|TELEFONE: 123456789|---|SENHA: 1234|---
-|NOME: melissa dabe|---|EMAIL: mel@.|---|TELEFONE: 12988778329|---|SENHA: 12345|---
-|NOME: gabi|---|EMAIL: gabi@.com|---|TELEFONE: 1029384756|---|SENHA: 1234|---
-|NOME: gfgtfghghhghghghg|---|EMAIL: bhbgbbnbnb@.|---|TELEFONE: 34334343|---|SENHA: 1234|---
-|NOME: joao|---|EMAIL: Joao@.com|---|TELEFONE: 1234566789|---|SENHA: 1234|---
-
-|NOME: clarice cardoso|
-|EMAIL: clarice.juca@|
-|TELEFONE: 12996163717|
-|SENHA: 123456|
 ---------------------------------------------------
-|NOME: marcos|
-|EMAIL: @.|
-|TELEFONE: 99999999999|
-|SENHA: 1234|
----------------------------------------------------
-|NOME: tarcila|
-|EMAIL: @.|
+|NOME: vitor|
+|EMAIL: v@.|
 |TELEFONE: 11212121212|
 |SENHA: 1111|
 ---------------------------------------------------
