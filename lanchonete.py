@@ -142,7 +142,23 @@ def Cadastro_de_usuario():
     Arquivo.close()
 
 def cardapio():
+    print("\n------ CARDÁPIO DA LANCHONETE ------\n")
 
+    arquivo = open("produtos3.txt", "r", encoding="utf-8")
+    dados = arquivo.readlines()
+    arquivo.close()
+
+    if dados == []:
+        print("Nenhum produto cadastrado no momento.\n")
+        return
+
+    print("CÓDIGO | DESCRIÇÃO | VALOR")
+    for linha in dados:
+        partes = linha.strip().split(";")
+        if len(partes) == 3:
+            codigo, nome, preco = partes
+            print(f"{codigo} | {nome} | R$ {float(preco):.2f}")
+    print("\n-------------------------------------\n")
     return 
    
 def Pedido():
